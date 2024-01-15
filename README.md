@@ -11,4 +11,4 @@ The system includes two modules:
 
 These two modules will communicating using *SPI* protocol. In picture below, we see the *Block Diagram* of this system.
 
-![System Block Diagram](https://github.com/Aminho09/Microprocessor_FinalProject/blob/main/images/System%20Block%20Diagram.png =800x600)
+![System Block Diagram](https://github.com/Aminho09/Microprocessor_FinalProject/blob/main/images/System%20Block%20Diagram.png "System Block Diagram")
