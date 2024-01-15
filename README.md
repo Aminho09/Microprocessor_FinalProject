@@ -10,4 +10,5 @@ The system includes two modules:
 - The other one is going to generate waveforms.
 
 These two modules will communicating using *SPI* protocol. In picture below, we see the *Block Diagram* of this system.
-![System Block Diagram]([https://github.com/Aminho09/Microprocessor_FinalProject/blob/main/images/System%20Block%20Diagram.png]( "System Block Diagram")
+
+![System Block Diagram](https://github.com/Aminho09/Microprocessor_FinalProject/blob/main/images/System%20Block%20Diagram.png)
